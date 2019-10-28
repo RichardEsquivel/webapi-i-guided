@@ -19,3 +19,11 @@ The code for the guided project will be written in a single file for simplicity.
 Please follow along as the instructor builds the API step by step.
 
 What a cool commit!!!
+
+Slack and Visual Studio Code are Node applications you can write applications.
+
+You can write Javascript that manipulates the DOM manually and we can use REACT to have a library that manipulates the DOM for you using commands.
+
+Express is an NPM package that makes it easier to build web applications and web servers and web api's. Instead of writing Node directly we use Express,
+
+Express will help build web applications, Node 

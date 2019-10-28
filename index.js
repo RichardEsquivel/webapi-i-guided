@@ -1,5 +1,7 @@
 //import express from 'express' //ES6 Modules
 
+console.log("It's alive");
+
 const express = require('express'); // CommonJS Modules equivalent to above
 
 //hubs model with be an object that returns an promise
